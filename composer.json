@@ -1,0 +1,14 @@
+{
+    "name": "metalback/sbre",
+    "description": "Simple business rules engine",
+    "type": "project",
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "Mauricio Beltrán",
+            "email": "mbeltran@indap.cl"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
