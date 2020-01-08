@@ -1,7 +1,7 @@
 <?php
 namespace Metalback\SBRE;
 
-class AbstracEngine {
+class AbstractEngine {
     /**
      * Collection of rules
      * @var IRules

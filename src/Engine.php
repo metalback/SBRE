@@ -1,7 +1,7 @@
 <?php
 namespace Metalback\SBRE;
 
-class Engine extends AbstracEngine {
+class Engine extends AbstractEngine {
     /**
      * Dinamically load the rules
      * @return void
